@@ -155,7 +155,7 @@ header > img {
 
   .container-text {
     padding: 1em;
-
+    font-size: 12px;
     border-radius: 20%;
     box-shadow: 0.25em 0.25em 0.5em rgba(255, 255, 255, 0.377);
   }
@@ -168,3 +168,4 @@ header > img {
     background-size: 100%;
     background-position: center bottom;
   }
+
